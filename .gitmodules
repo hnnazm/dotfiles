@@ -1,0 +1,3 @@
+[submodule "nvim-rc"]
+	path = nvim-rc
+	url = https://github.com/hnnazm/nvim-rc.git
