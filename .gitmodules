@@ -4,3 +4,6 @@
 [submodule "bash-rc"]
 	path = bash-rc
 	url = https://github.com/hnnazm/bash-rc.git
+[submodule "tmux-rc"]
+	path = tmux-rc
+	url = https://github.com/hnnazm/tmux-rc.git
