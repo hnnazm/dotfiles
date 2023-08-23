@@ -7,3 +7,6 @@
 [submodule "tmux-rc"]
 	path = tmux-rc
 	url = https://github.com/hnnazm/tmux-rc.git
+[submodule "vim-rc"]
+	path = vim-rc
+	url = https://github.com/hnnazm/vim-rc.git
