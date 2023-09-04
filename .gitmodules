@@ -10,3 +10,6 @@
 [submodule "vim-rc"]
 	path = vim-rc
 	url = https://github.com/hnnazm/vim-rc.git
+[submodule "alacritty-rc"]
+	path = alacritty-rc
+	url = https://github.com/hnnazm/alacritty-rc.git
